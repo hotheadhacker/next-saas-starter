@@ -1,4 +1,8 @@
 <!-- GitAds-Verify: 7ERMT9QX4P7HR32G7DHPZIPCFV55U58Q -->
+## GitAds Sponsored
+[![Sponsored by GitAds](https://gitads.dev/v1/ad-serve?source=hotheadhacker/next-saas-starter@github)](https://gitads.dev/v1/ad-track?source=hotheadhacker/next-saas-starter@github)
+
+
 <br/>
 <p align="center">
 
